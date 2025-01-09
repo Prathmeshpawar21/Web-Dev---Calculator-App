@@ -22,16 +22,6 @@ The Resp Calculator is a web application designed to calculate and analyze respi
 - **Frontend**: HTML, CSS, JavaScript
 - **Hosting**: Netlify
 
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/resp-calculator.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd resp-calculator
-   ```
 
 ## Deployment
 
