@@ -32,18 +32,6 @@ The Resp Calculator is a web application designed to calculate and analyze respi
    ```bash
    cd resp-calculator
    ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Run the development server:
-   ```bash
-   npm start
-   ```
-5. Open your browser and visit:
-   ```
-   http://localhost:3000
-   ```
 
 ## Deployment
 
